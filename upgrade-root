@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Upgrade script
 
 pm2 delete medimage-server
